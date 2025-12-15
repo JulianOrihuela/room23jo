@@ -1,0 +1,570 @@
+{
+	"hello": "Hello",
+	"es": "spanish",
+	"en": "english",
+	"routes": {
+		"home": "Home",
+		"our-work": "Our work",
+		"who-we-are": "Who we are",
+		"contact": "Contact"
+	},
+	"sections": {
+		"home": {
+			"subtitle-first": "independent <br></br> agency <br></br> since 2005",
+			"subtitle-second": "20th Anniversary",
+			"title": "Always open to new ideas.",
+			"subtitle-2": "<span>based in </span> Buenos aires / Montevideo / Bogotá / Barcelona"
+		},
+		"ourWork": {
+			"title": "Step inside the room and take a peek",
+			"filter": "Filter by type",
+			"see-project": "See project"
+		},
+		"footer": {
+			"title": "We’re always open to new challenges.",
+			"subtitle": "Feel free to reach out if you want to collaborate with us, or simply have a chat."
+		},
+		"contact": {
+			"title": "<span>Want to get in touch? <br></br> Go on,</span> don’t be shy."
+		},
+		"workers": {
+			"title": "We are a <span>creative-driven</span> agency focused on innovation.",
+			"meet-our-team": "Meet our team",
+			"subtitle": "A little about our history",
+			"description": "We started in a small room with a big dream—where we set the rules that still guide us today: We adapt to the brief, never fail our clients, and grow together with them.",
+			"features": {
+				"0": "members",
+				"1": "offices around the world",
+				"2": "years of experience"
+			},
+			"back-to-team-page": "back to the team page"
+		}
+	},
+	"projects": {
+		"actimel-pokemon-webapp": {
+			"title": "Pokémon Actimel",
+			"subtitle": "Webapp with combination of gaming, collectibility, and “health immunity tips” with 3,4 Million Unique scans",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "For the second year in a row - and after a successful first campaign with +1 Million unique scans - we challenged Pokemon and Actimel fans all over Spain and Portugal to catch 'em all and launched a webapp where users are able to collect their favorite characters on pack to participate for exciting prizes and a chance to win a trip to Japan."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We managed to reached to 1,4 Million Unique scans in Iberia <br></br> Campaign Highlights:<br></br> Region: Iberia (First to Roll Out), UK, DACH, and France<br></br> Achievements: Over 1.4 million unique scans within just 3 months!<br></br> Key Features of the Actimel Pokémon:<br></br> Gaming: Fun and interactive games featuring beloved Pokémon characters.<br></br> Collectability: Kids can collect virtual Pokémon, adding an exciting layer of engagement.<br></br> Health Immunity Tips: Useful and educational tips on health and immunity, aligning with Actimel’s brand mission."
+				}
+			}
+		},
+		"burger-king-anniversary-campaign": {
+			"title": "Burger King",
+			"subtitle": "Global 70th Anniversary Campaign",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "-"
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "Burger King turns 70 🔥🔥🔥 <br></br><br></br>  But at Burger King, we keep our fire burning hotter than ever. And not just on our birthday candles. <br></br><br></br> To celebrate our anniversary, we’ve launched in Brazil a new campaign featuring old flames keeping their kinky passion alive after all these years, as hot as the first day, just as Burger King is flame grilled since 1954. <br></br><br></br> This is shown with the headline: 70 years later the fire’s still burning. Ending with a Burger King’s classic tagline: Flame-grilled since 1954. <br></br><br></br> The campaign in Brazil (including Online Videos, POS, Outdoor and Press) was created by a partnership between Room 23 and Trans Company."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "Shortlist - Cannes Lions Festival 2024 <br></br> Oro Gráfica Campaña - Diente Premio a la Creatividad Argentina 2024"
+				}
+			}
+		},
+		"evian-brand-activation": {
+			"title": "Evian",
+			"subtitle": "A brand activation to reinforce the importance of hydration during workout",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Design a Brand Experience  with a photo opportunity for the #GlamCamp event by @glamourmexico, focused on fitness, wellness and of course, hydration."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "As #evianwaters was the official hydration sponsor of this event, we created the #VipClub – a booth featuring a dual-sided photo opportunity. One side emphasized the importance of staying hydrated DURING workouts, while the other highlighted hydration POST-workout. <br></br><br></br> Brand ambassador and influencer @luisaferss 💖 joined us throughout the event to engage with attendees and bring the experience to life."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The double-sided photo stand was designed to offer a shareable, interactive experience that combined fitness, wellness, and Evian’s core message of hydration. Attendees could take pictures, engage with branded hashtags like #RefreshYourself and #VipClub, and instantly share their content on social media, generating buzz both at the event and online."
+				}
+			}
+		},
+		"fernet-lollapalooza-2024": {
+			"title": "BRANCA:<br></br>LOLLAPALOOZA<br></br>2024",
+			"subtitle": "Fernet Branca at Lollapalooza: An Iconic Brand Activation for Music Lovers",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Fernet Branca, an iconic Argentine brand, aimed to create a unique and memorable experience at Lollapalooza, connecting with a young, music-loving audience through an innovative and standout activation."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We designed an interactive stand where music and technology were the stars. The highlight was the only Kinetic 3D screen in the country, moving to the rhythm of the festival’s music, creating an immersive audiovisual experience that transported attendees into the world of Fernet Branca."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "Over 4,000 people visited the stand, engaging with the brand’s activities and taking home branded merchandise. Fernet Branca solidified its connection with the young crowd and left a lasting impression at Lollapalooza."
+				}
+			}
+		},
+		"danet-shake": {
+			"title": "DANET SHAKE",
+			"subtitle": "Danet Shake: Say It with a Song – Unlocking Connections Through QR on Pack.",
+			"sections": {
+				"section-2": {
+					"title": "Solution",
+					"content": "We launched Danet Shake in a digital activation where the irresistible flavors merge with the fun of music and local Spanish TikTokers. With ‘Say It with a Song,’ we created a platform where users, by scanning the packs, could dedicate a phrase with a song and send personalized messages to their friends and family.<br></br><br></br>The campaign included concept and creativity, pack design, online TVC production, radio, and 3D development."
+				}
+			}
+		},
+		"loreal-paris": {
+			"title": "L'ORÉAL PARIS<br></br>|| ELVIVE<br></br>GLYCOLIC<br></br>GLOSS",
+			"subtitle": "Product launch event for VIP clients, press and Influencers.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch of the New Elvive Glycolic Gloss."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We partnered with L’Oréal Paris to launch the new Elvive 'Glycolic Gloss' line. The event took place at Águila Pabellón in Palermo.<br></br><br></br> The gathering, with a pink-detail dress code, was attended by influencers and models who enjoyed an evening filled with exciting news and unique experiences. These included photo opportunities, a live show, and talks with renowned experts."
+				}
+			}
+		},
+		"fernet-lollapalooza-2023": {
+			"title": "Branca<br></br>Lollapalooza<br></br>2023",
+			"subtitle": "Fernet Branca Lollapalooza 2023",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Each year, Lollapalooza outdoes itself in attendance and experiences, and Fernet<br></br> Branca reinvents itself as well. Attendees look forward to both their favorite artists and our innovative proposal."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We created a space where music and the world of Fernet Branca coexist, featuring a disruptive stand with a full-screen design that highlighted the 'Suena Branca' concept.<br></br> Additionally, we launched the first volumetric 3D experience in Argentina, creating impactful moments for attendees."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The festival attracted over 330,000 people over three days, breaking attendance records. We engaged approximately 1,200 people per day with our activities, who took home branded merchandise, solidifying Fernet Branca’s presence at Lollapalooza."
+				}
+			}
+		},
+		"branca-armadores": {
+			"title": "BRANCA:<br></br>ARMADORES",
+			"subtitle": "Fernet Branca: Celebrating Tradition, Quality, and 'El Armador'",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Fernet Branca focused its communication on its key differentiators: a rich history, quality ingredients, and its key consumer, 'El Armador' who transforms ordinary gatherings into unique moments by preparing the best fernet."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "The campaign pays tribute to 'El Armador' the essential strategist in the ritual of serving fernet. As the most Argentine of Italian brands, Fernet Branca celebrates their central role in creating connections and memorable experiences."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign strengthened the emotional connection between the brand and its consumers, increasing the audience's identification with Fernet Branca and consolidating its position as the preferred choice for social gatherings."
+				}
+			}
+		},
+		"bimbo-artesano-sentidos": {
+			"title": "BIMBO<br></br>ARTESANO:<br></br>ELEVA TUS<br></br>SENTIDOS",
+			"subtitle": "Mastering Quality with Natural Ingredients and Oven-Risen Dough",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Bimbo Artesano stands out for its commitment to natural ingredients and dedication in every creation. The key to its exceptional quality is the rising of the dough in the oven, transforming each product into a masterpiece."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "Just as the dough rises, the senses are elevated when enjoying the unparalleled fluffiness, softness, and flavor of our products. This connection between the process and the sensory experience highlights the artisanal mastery of Bimbo Artesano."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign strengthened brand recognition and emotional connection with consumers, positioning Bimbo Artesano as a premium choice in the market and emphasizing its commitment to excellence."
+				}
+			}
+		},
+		"supan": {
+			"title": "SUPÁN: SIEMPRE<br></br>JUNTOS,<br></br>SIEMPRE<br></br>SUPÁN",
+			"subtitle": "Empowering Ecuadorian Families with Strength, Optimism, and Everyday Dedication",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "The Ecuadorian people are known for their strength, optimism, and constant effort for a better future for their families. At Supán, we understand this effort, as our brand was born from a single mother and we are present in the lives of Ecuadorians every day."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We created a campaign alongside another Ecuadorian pride, Pamela Cortés, to strengthen Supán's connection with families in Ecuador. This collaboration highlights our shared values and our commitment to accompany Ecuadorians."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign reinforced Supán's relationship with consumers, increasing brand recognition and its relevance in everyday life. The partnership with Pamela Cortés resonated emotionally with the audience, solidifying Supán as a symbol of support in Ecuadorian homes."
+				}
+			}
+		},
+		"adidas": {
+			"title": "Adidas<br></br>Originals",
+			"subtitle": "Launch of a new 'Always Original' Line with a communication focus on Gender Minorities",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Event proposal for the launch of the Siempre Original line, focusing on communication with gender minorities."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "We transformed the various areas of a multicultural venue into distinct sectors:<br></br><br></br>A main stage featuring live performances every 30 minutes<br></br>A live digital illustration area<br></br>A dedicated photo opportunity space<br></br>An outdoor patio with live music and craft beer"
+				}
+			}
+		},
+		"royal-enfield": {
+			"title": "ROYAL ENFIELD - SHOTGUN 650",
+			"subtitle": "Product launch event for dealers, clients, press and Influencers.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch Event for the New Shotgun 650."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We launched the new Shotgun 650 by Royal Enfield.<br></br><br></br>The event took place in Mustang, where we spent an evening with dealers, customers, influencers, and press.<br></br><br></br>Guests had the opportunity to discover the new Shotgun 650, along with its custom version."
+				}
+			}
+		},
+		"giorgio-armani-my-way-parfum": {
+			"title": "GIORGIO<br></br>ARMANI - MY<br></br>WAY PARFUM",
+			"subtitle": "Podium and architecture.  ",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch of My Way Parfum."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We launched a pop-up to introduce the new Giorgio Armani fragrance, MY WAY PARFUM.<br></br><br></br>The space featured samples of the entire MY WAY fragrance family, an olfactory area to experience the natural notes of the new scent, photo opportunities, and a personalization station."
+				}
+			}
+		},
+		"vichy-laboratories": {
+			"title": "Vichy<br></br>Laboratories",
+			"subtitle": "Creative development of a Digital Platform to engage and educate consumers",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Creative development of a Digital Platform to engage and educate consumers."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "To attract new consumers through digital channels, we launched actions aimed at boosting awareness with a focus on conversion and product trials."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "We highlighted the importance of having a personalized routine for cleansing, strengthening, and hydrating the skin. This is how #SkinTraining was born—a digital platform developed in collaboration with dermatologists and specialized influencers. It offered skincare routines, tips on nutrition and relaxation, and product recommendations tailored to each skin type and need.<br></br><br></br>The proposal included:<br></br><br></br><br></br>Concept and creative idea<br></br>Campaign digital TVC in partnership with @randomlab<br></br>Website development<br></br>Production of videos and images for the platform<br></br>Creation of digital assets<br></br>Delivery of personalized kits to registered users"
+				}
+			}
+		},
+		"lancome-idole": {
+			"title": "LANCÔME<br></br>IDÔLE",
+			"subtitle": "Product launch for VIP clients, press and Influencers.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Create a brand experience for VIP consumers and PR."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "Each room in the mansion offered its own unique brand experience, unveiling surprises throughout the journey and creating Instagram-worthy moments in every corner.<br></br><br></br>Attendees: Over 500!"
+				}
+			}
+		},
+		"la-roche-posay-niacinamide": {
+			"title": "La Roche-Posay<br></br>- NIACIMIDE 10",
+			"subtitle": "Product launch event for VIP clients, press and Influencers.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch of Pure Niacinamide 10"
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "Under the concept 'Your Skin is a Masterpiece,' we partnered with La Roche-Posay to launch the new #PureNiacinamide10. This grand event took place at @museomalba ✨—a glamorous evening with celebrities and influencers, inviting them to discover the art of skincare."
+				}
+			}
+		},
+		"la-roche-posay-solares": {
+			"title": "La Roche-Posay<br></br>- SOLARES",
+			"subtitle": "Event for clients and dermatologists to educate about sun care.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Events to Educate About Sun Care."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We organized four Bi-Brand events for La Roche-Posay and Vichy, targeting four different audiences: internal teams, dermatologists, VIP clients, and dermocosmetic advisors.<br></br><br></br>Under the concept of '365 Suncare,' we focused on promoting the year-round use of sun protection, breaking the notion of it being seasonal.<br></br><br></br>We also shared the latest product launches from each brand, and attendees enjoyed a variety of unique experiences."
+				}
+			}
+		},
+		"miss-dior-parfum": {
+			"title": "DIOR - MISS<br></br>DIOR PARFUM",
+			"subtitle": "Podium and architecture.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch of the New Miss Dior Parfum Fragrance."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We created a space filled with unique experiences:<br></br><br></br><b>Beauty Fitting Area:</b> The DIOR squad of artists shared the latest makeup trends and invited consumers to try various products.<br></br><br></br><b>Olfactory Discovery:</b> A sensory journey through different fragrance notes, enhanced by an audiovisual experience that immersed consumers in the universe of the fragrance, evoking different sensations.                                                                                       <br></br><br></br><b>Gifting Atelier & Personalization:</b> A dedicated spot for customizing.<br></br><br></br><b>Miss Dior Gallery:</b> In collaboration with the brand's team, consumers explored the history of Miss Dior from its origins.<br></br><br></br><b>Miss Dior Café:</b> A Parisian-style café set in one corner, where guests enjoyed moments of relaxation with a selection of teas and pink patisseries.<br></br><br></br>The centerpiece of the space was 'The Giant': an oversized Miss Dior Parfum bottle that became the focal point. It not only served as a photo opportunity but also hosted special events for clients, influencers, and the press. The Giant featured a large fragrance bar and a photo booth, further enhancing the experience."
+				}
+			}
+		},
+		"dior-maybelline": {
+			"title": "MAYBELLINE -<br></br>LUMI MATTE",
+			"subtitle": "Product launch event",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch of Super Stay Lumi Matte by Maybelline New York."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "At the launch event for Maybelline's Super Stay Lumi Matte, we created a unique immersive experience with a 270-degree screen that transported guests to New York City. The event featured DJs, photo opportunities, and a beat-making experience where attendees could create their own rhythms and tracks."
+				}
+			}
+		},
+		"sernova": {
+			"title": "SERNOVA:<br></br>NEVER ENDING<br></br>NIGHT",
+			"subtitle": "Sernova Vodka: The Best of the Night – Ushuaia's Never Ending Night",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Sernova Vodka launched its new positioning campaign, 'The Best of the Night,' creating a unique experience: the first Never Ending Night in Ushuaia."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We leveraged the winter solstice, transforming the longest night of the year into the best night in the world. This event became the perfect setting to film Sernova Vodka's new commercial alongside 10 influencers relevant to the target audience, generating an immersive experience that resonated with attendees."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign elevated Sernova Vodka's profile, capturing attention on social media and increasing engagement and brand recognition, consolidating its position as the preferred choice for memorable nights."
+				}
+			}
+		},
+		"bimbo-artesano-ponque": {
+			"title": "BIMBO<br></br>ARTESANO: EL<br></br>PONQUÉ EN SU<br></br>MÁXIMA<br></br>EXPRESIÓN",
+			"subtitle": "Homemade Flavor and Quality in Every Slice",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Bimbo Artesano launched its new line of cakes, evoking the flavor and consistency of homemade ones. To connect with consumers, we focused on two key assets: the affection for the brand and the unique indulgence of the cake, with its delicious flavor and quality ingredients."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We created an irresistible television commercial that highlighted the superiority of Artesano products. The campaign positions the cake as the ultimate expression of indulgence, inviting consumers to enjoy an authentic experience."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The TVC had a significant impact, strengthening the emotional connection with the brand and increasing recognition of the new line of cakes, solidifying Bimbo Artesano as the preferred choice for those seeking exceptional homemade flavor."
+				}
+			}
+		},
+		"poett-fragancias": {
+			"title": "POETT:<br></br>FRAGANCIAS<br></br>PARA<br></br>EXPRESARTE",
+			"subtitle": "Personalize Your Space with Custom Blended Fragrances",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Poett introduces a new way to personalize spaces by mixing its fragrances. The campaign aimed to communicate this innovation and connect with consumers in Argentina, Chile, Peru, and Puerto Rico."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We developed a regional campaign that highlighted how Poett fragrances allow consumers to express emotions and feelings through their mixes. We invited people to create spaces that reflect the atmosphere they want to evoke, personalizing their homes with unique and meaningful scents."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign positioned Poett as an innovative brand, increasing emotional connection with consumers and generating greater recognition and engagement in key markets."
+				}
+			}
+		},
+		"huggies": {
+			"title": "HUGGIES:<br></br>NOCHE DE LAS<br></br>MADRES",
+			"subtitle": "Connecting with Moms: Restoring Balance in the First Year of Parenthood",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Having a baby completely transforms parents' routines, as they dedicate their time to caring for their child 24/7. With the insight that parents sleep 700 hours less in the baby’s first year, we aimed to connect with moms during a key moment of their day."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "For Mother’s Day, we focused on an unusual but crucial time: the early hours of the morning. This is when moms care for their babies and often connect with their devices. We used this moment to honor them and create an emotional bond during their nightly routines."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign resonated deeply with mothers, standing out for its emotional connection. Additionally, ecommerce sales were a success, with the store’s stock selling out."
+				}
+			}
+		},
+		"danonino": {
+			"title": "DANONINO <br></br> PAW PATROL",
+			"subtitle": "Danonino x Paw Patrol: A Digital Adventure to Engage Families",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Danonino sought to reinforce its connection with children and parents through an interactive, educational, and entertaining experience. The goal was to promote brand engagement while highlighting Danonino’s values of fun and healthy growth."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We created a webapp-based activation where users could unlock special Paw Patrol-themed filters by scanning a QR code found on Danonino packaging.  So we worked on a packaging proposal that brings together the license, the creative concept, and the WebApp experience <br></br><br></br> The interactive platform featured: <ul> <li> Mini-games about Paw Patrol and healthy habits. </li> <li> A reward system offering digital exclusive filters </li> <li> A child-friendly and mobile-optimized interface, ensuring easy access and seamless interaction. </li> </ul>"
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "High engagement rates with families actively participating. <br></br> Thousands of rewards claimed, increasing brand loyalty. <br></br>Increased traffic to the Danonino platform, extending digital reach."
+				}
+			}
+		},
+		"garnier": {
+			"title": "GARNIER SOLID<br></br>SHAMPOO",
+			"subtitle": "Product launch event for VIP clients, press and Influencers.",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "In the post-pandemic context, returning to in-person schooling presented a challenge. The goal of Clorox's campaign was to make a positive impact by supporting education and ensuring a safe school environment."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We developed the 'Present' campaign in collaboration with foundations from Mexico, Argentina, Chile, Puerto Rico, and Colombia. This initiative aimed to improve cleaning and disinfecting conditions in schools, ensuring safer spaces for students."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "The campaign made schools cleaner and more disinfected, allowing more students to return to class and thrive in a proper environment, ensuring equal educational opportunities across the region."
+				}
+			}
+		},
+		"clorox": {
+			"title": "CLOROX: EL<br></br>FUTURO DICE<br></br>PRESENTE",
+			"subtitle": "Supporting Education and Ensuring Safe Schools in the Post-Pandemic Era",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Launch of Garnier Solid Shampoo"
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "We organized an event featuring various interactive spaces with a communication focus on the product's key attributes"
+				}
+			}
+		},
+		"evian-japon": {
+			"title": "EVIAN JAPON",
+			"subtitle": "Evian x Mickey Mouse: Iconic Design Collaboration",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "Evian, the world-renowned natural mineral water brand, collaborates with Disney’s iconic Mickey Mouse to create a unique and collectible packaging design. This limited-edition release celebrates timeless creativity, playfulness, and purity, aligning with Evian’s commitment to innovation and premium quality."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "The Evian x Mickey Mouse packaging blends classic Disney charm with Evian’s refined aesthetic. The design features: <br></br> <br></br> Elegant yet playful illustrations of Mickey Mouse, celebrating his timeless appeal. <br></br> <br></br> A clean and modern visual identity that stays true to Evian’s minimalist branding."
+				}
+			}
+		},
+		"cbse-yerba-mate": {
+			"title": "CBSÉ Yerba<br></br> Mate",
+			"subtitle": "CBSé Yerba Mate with Guaraná: Glow-in-the-Dark Packaging for an Energizing Launch",
+			"sections": {
+				"section-1": {
+					"title": "Challenge",
+					"content": "CBSé, a leading yerba mate brand, was launching a new variety infused with guaraná, a natural energy booster. The challenge was to create a standout packaging design that would not only highlight the product’s energizing benefits but also captivate consumers in a bold and unexpected way."
+				},
+				"section-2": {
+					"title": "Solution",
+					"content": "To reinforce the energy concept, we designed a glow-in-the-dark packaging that would bring the CBSé Yerba Mate with Guaraná to life. This innovative approach created an eye-catching effect, making the product stand out on shelves and offering consumers a unique, interactive experience."
+				},
+				"section-3": {
+					"title": "Outcomes",
+					"content": "A packaging innovation that sparked consumer curiosity and engagement. Increased brand visibility with a disruptive, attention-grabbing design. <br></br>Stronger product differentiation in a competitive market."
+				}
+			}
+		}
+	},
+	"workers": {
+		"richar-dalmada": {
+			"description": "He was the worst student in his class until 1996, the year he finished school. In 2000, he graduated as an Art Director and began searching for jobs at several agencies, although initially with little success. In 2003, he decided to try his luck in Italy, but after failing to find work, he returned to Argentina. Thanks to his former teammate Gastón Potasz, he was given the opportunity to lead a team at Visual Latina, a BTL agency. There, he successfully developed projects for global brands like Danone, Bimbo, and Nestlé, discovering his passion for point-of-sale marketing, promotions, and activations. <br></br><br></br> In 2004, he took a significant step in his career by joining FCB to work with The Coca-Cola Company. During this time, Richar redefined his skills with an integrated creative approach, combining concept development, design and brand experience into one seamless process. <br></br><br></br> Everything was going well until 2005, when he grew tired of the rigid structure of large agencies. Together with his partner Iván “Vancho” Novikov, he decided to do things his own way."
+		},
+		"ivan-novikov": {
+			"description": "A creative soul, an artist by vocation, and an entrepreneur by nature. Today, he leads operations in Argentina and Latin America, driving creativity and innovation in every project for clients like he Coca-Cola Company, Danone, Akapol, Kimberly-Clark, Clorox, and L’Oréal <br></br><br></br> His journey in advertising began 20 years ago in renowned agencies such as Selective Bates and Visual Latina. Vancho has successfully combined his artistic vision with a strategic approach, positioning Room23 as a leading agency in the region. <br></br><br></br> Thanks to this approach, the agency has been honored with multiple marketing and advertising awards, including Mercurio, Smarties, Effie, Diente, and AMDIA, as well as recently making the Shortlist at the Cannes International Festival."
+		},
+		"gustavo-mendez-antonetti": {
+			"description": "With over 15 years of experience in Strategic Planning and Creative Direction in advertising, “Pep” has led communication projects across ATL, BTL, Digital, Packaging, Shopper Marketing, and New Business Developmentin Argentina, Venezuela, Chile, Colombia, Uruguay, Mexico, Spain, and other European countries. <br></br><br></br> He has worked with renowned clients such as L'Oréal, Danone, Movistar, Kimberly-Clark, Clorox, Bimbo, Mondelez, and many more."
+		},
+		"yasmin-cao-gatti": {
+			"description": "Yasmin brings 15 years of extensive experience across both agency and client roles. <br></br><br></br> At Wunderman Buenos Aires, she led key projects for The Coca-Cola Company before transitioning directly to the brand as South Latin Digital Marketing Manager. <br></br><br></br> Her career also includes collaborations with global giants like Danone, Burger King, Kimberly Clark and L’Oréal. <br></br><br></br> Since 2023, Yasmin has been leading the expansion and growth of Room23 Agency in Europe, currently based in Barcelona."
+		},
+		"gonzalo-izzo": {
+			"description": "With over 16 years of experience in advertising and communication, Gonzalo Izzo has led integrated and omnichannel communication projects for leading consumer brands across regional and global markets. <br></br><br></br> His career as an Account Director is defined by a strategic approach and leadership that drives measurable results, managing multidisciplinary teams and complex projects. <br></br><br></br> A specialist in leading strategic projects, branding, and business development, he combines in-depth knowledge of digital communication with the ability to translate insights into relevant and effective campaigns. His focus is on maximizing brand impact across diverse audiences, delivering sustainable results."
+		},
+		"gimena-kossmann": {
+			"description": "Gimena is a strategic and creative leader with 16+ years of experience in the sports, fashion, and luxury industries. <br></br><br></br> With a background in Advertising and Visual Arts, she excels in crafting communication plans, content marketing strategies, and impactful brand experiences. <br></br><br></br> Known for leveraging creativity, storytelling, and innovation, she has worked with global and regional brands to build awareness and desirability, delivering meaningful and credible content that connects with target audiences."
+		},
+		"laura-de-barrio-merino": {
+			"description": "Laura, a Social Communication graduate, began as a culture journalist before transitioning to strategic consulting to craft impactful stories. <br></br><br></br> With nearly two decades of experience, she has led strategies for global brands like Oreo, Danone, Evian, and L’Oréal across markets such as Spain, the U.S., and Argentina. <br></br><br></br> After earning a master’s in Cultural Creation, she joined Room 23, where she founded and leads the Strategic Planning department."
+		}
+	},
+	"models": {
+		"category": {
+			"name": {
+				"1": "Digital",
+				"2": "Campaign",
+				"3": "Packaging",
+				"4": "Experience"
+			},
+			"all-work": "All work"
+		},
+		"project": {
+			"description": {
+				"0": "Global Anniversary Campaign",
+				"1": "A brand activation to reinforce the importance of hydration during workout",
+				"2": "Argentine brand, aimed to create a unique and memorable experience at Lollapalooza",
+				"3": "Webapp with gaming, collectability, and “health immunity tips”. 1,4 Million Unique scans in Iberia",
+				"4": "Say It with a Song – Unlocking Connections <br></br> Through QR on Pack",
+				"5": "Product launch event for VIP clients, press and Influencers",
+				"6": "Lollapalooza outdoes itself in attendance and experiences, and Fernet Branca reinvents itself",
+				"7": "Fernet Branca focused its communication on its key differentiators",
+				"8": "Bimbo Artesano stands out for its commitment to natural ingredients and dedication in every creation",
+				"9": "The Ecuadorian people are known for their strength, optimism, and constant effort for a better future for their families",
+				"10": "Launch of a new 'Always Original' Line with a communication focus on Gender Minorities",
+				"11": "Product launch event for dealers, clients, press and Influencers",
+				"12": "Podium and architecture",
+				"13": "Creative development of a Digital Platform to engage and educate consumers",
+				"14": "Product launch for VIP clients, press and Influencers",
+				"15": "Product launch event for VIP clients, press and Influencers",
+				"16": "Event for clients and dermatologists to educate about sun care",
+				"17": "Podium and architecture",
+				"18": "Product launch event.",
+				"19": "Sernova Vodka launched its new positioning campaign, 'The Best of the Night'",
+				"20": "Bimbo Artesano launched its new line of cakes, evoking the flavor and consistency of homemade ones",
+				"21": "Poett introduces a new way to personalize spaces by mixing its fragrances",
+				"22": "Having a baby completely transforms parents' routines, as they dedicate their time to caring for their child 24/7",
+				"23": "Danonino x Paw Patrol: A Digital Adventure to <br></br>Engage Families",
+				"24": "Product launch event for VIP clients, press and Influencers",
+				"25": "In the post-pandemic context, returning to in-person schooling presented a challenge",
+				"26": "Evian x Mickey Mouse: Iconic Design <br></br> Collaboration",
+				"27": "CBSé Yerba Mate with Guaraná: <br></br>Glow-in-the-Dark Packaging for an Energizing Launch",
+				"28": "CBSE Yerba Mate"
+			}
+		}
+	},
+	"common": {
+		"all-rights-reserved": "All rights reserved",
+		"filters": "Filters",
+		"send-email-to": "Send email to",
+		"spain": "Spain",
+		"social": "Social",
+		"offices": "Offices",
+		"previous": "Previous",
+		"next": "Next"
+	}
+}

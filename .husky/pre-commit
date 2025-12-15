@@ -1,0 +1,2 @@
+./compare_locales.sh
+npm run lint

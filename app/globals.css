@@ -1,0 +1,175 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind utilities;
+
+@theme {
+  --color-dark: #1c1c1c;
+  --color-white: #ffffff;
+  --color-purple: #9747ff;
+  --font-questrial: var(--font-questrial);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* add the code bellow */
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+}
+
+html {
+	background-color: #fff;
+}
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+}
+
+.hover-underline-animation::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  -webkit-transition: -webkit-transform 0.25s ease-out;
+  transition: -webkit-transform 0.25s ease-out;
+  -o-transition: transform 0.25s ease-out;
+  transition: transform 0.25s ease-out;
+  transition: transform 0.25s ease-out, -webkit-transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover::after {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.hover-underline-animation.left::after {
+  -webkit-transform-origin: bottom right;
+  -ms-transform-origin: bottom right;
+  transform-origin: bottom right;
+}
+
+.hover-underline-animation.left:hover::after {
+  -webkit-transform-origin: bottom left;
+  -ms-transform-origin: bottom left;
+  transform-origin: bottom left;
+}
+
+.text-toggle {
+  position: relative;
+  height: 129px;
+  width: 150px;
+}
+
+.text-toggle .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 129px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+  text-align: left;
+  opacity: 0;
+  -webkit-animation: toggleText 6s infinite;
+  animation: toggleText 6s infinite;
+}
+
+@media (max-width: 768px) {
+  .text-toggle {
+    height: 33px;
+    width: 70px;
+  }
+
+  .text-toggle .text {
+    height: 33px;
+  }
+}
+
+.text-toggle .second {
+  -webkit-animation-delay: 3s;
+  animation-delay: 3s;
+}
+
+@-webkit-keyframes toggleText {
+  0% {
+    opacity: 0;
+    /* -webkit-transform: translateY(100%);
+    transform: translateY(100%); */
+  }
+  10% {
+    opacity: 1;
+    /* -webkit-transform: translateY(0);
+    transform: translateY(0); */
+  }
+  40% {
+    opacity: 1;
+    /* -webkit-transform: translateY(0);
+    transform: translateY(0); */
+  }
+
+  50% {
+    opacity: 0;
+    /* -webkit-transform: translateY(-100%);
+    transform: translateY(-100%); */
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes toggleText {
+  0% {
+    opacity: 0;
+    /* -webkit-transform: translateY(100%);
+    transform: translateY(100%); */
+  }
+  10% {
+    opacity: 1;
+    /* -webkit-transform: translateY(0);
+    transform: translateY(0); */
+  }
+  40% {
+    opacity: 1;
+    /* -webkit-transform: translateY(0);
+    transform: translateY(0); */
+  }
+
+  50% {
+    opacity: 0;
+    /* -webkit-transform: translateY(-100%);
+    transform: translateY(-100%); */
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.hero-video::-webkit-media-controls,
+.hero-video::-webkit-media-controls-enclosure,
+.hero-video::-webkit-media-controls-panel {
+  display: none !important;
+}

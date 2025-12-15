@@ -1,0 +1,146 @@
+{
+	"hello": "Hola",
+	"es": "español",
+	"en": "inglés",
+	"routes": {
+		"home": "Home",
+		"our-work": "Our work",
+		"who-we-are": "Who we are",
+		"contact": "Contact"
+	},
+	"sections": {
+		"home": {
+			"subtitle-first": "agencia <br></br> independiente <br></br> desde 2005",
+			"subtitle-second": "agencia <br></br> independiente <br></br> desde 2005",
+			"title": "Siempre abiertos a nuevas ideas.",
+			"subtitle-2": "<span>based in. </span> Buenos aires / Montevideo / Bogotá / Barcelona"
+		},
+		"ourWork": {
+			"title": "Da un paso adentro <br></br> y mira nuestros trabajos",
+			"filter": "Filtrar por tipo",
+			"see-project": "Ver proyecto"
+		},
+		"footer": {
+			"title": "Siempre estamos abiertos a nuevos desafíos.",
+			"subtitle": "Feel free to reach out if you want to collaborate with us, or simply have a chat."
+		},
+		"contact": {
+			"title": "<span>¿Quieres ponerte en contacto?<br></br> ¡Adelante,</span> toca la puerta!"
+		},
+		"workers": {
+			"title": "Somos una agencia <span>impulsada por la creatividad</span> enfocada en la innovación.",
+			"meet-our-team": "Conocé a nuestro equipo",
+			"subtitle": "Un poco sobre nuestra historia",
+			"description": "Empezamos en una pequeña habitación con un gran sueño—donde establecimos las reglas que aún nos guían hoy: nos adaptamos al brief, nunca fallamos a nuestros clientes y crecemos junto a ellos.",
+			"features": {
+				"0": "miembros",
+				"1": "oficinas en todo el mundo",
+				"2": "años de experiencia"
+			},
+			"back-to-team-page": "volver a la página del equipo"
+		}
+	},
+	"projects": {
+		"actimel-pokemon-webapp": {
+			"title": "Pokémon Actimel",
+			"subtitle": "Webapp con una combinación de juego, coleccionismo y 'consejos de inmunidad para la salud' con 1.4 millones de escaneos únicos en Iberia",
+			"sections": {
+				"section-1": {
+					"title": "Desafío",
+					"content": "Por segundo año consecutivo, y después de una primera campaña exitosa con más de 1 millón de escaneos únicos, desafiamos a los fanáticos de Pokémon y Actimel en toda España y Portugal a atraparlos a todos. Lanzamos una webapp donde los usuarios pueden coleccionar a sus personajes favoritos en el pack para participar por emocionantes premios y la oportunidad de ganar un viaje a Japón."
+				},
+				"section-2": {
+					"title": "Solución",
+					"content": "Logramos alcanzar 1.4 millones de escaneos únicos en Iberia.<br></br> Destacados de la campaña:<br></br> Región: Iberia (primer lanzamiento), Reino Unido, DACH y Francia.<br></br> Logros: Más de 1.4 millones de escaneos únicos en solo 3 meses!<br></br> Características clave de Actimel Pokémon:<br></br> Juego: Juegos divertidos e interactivos con los queridos personajes de Pokémon.<br></br> Coleccionismo: Los niños pueden coleccionar Pokémon virtuales, agregando una capa adicional de emoción.<br></br> Consejos de inmunidad para la salud: Consejos útiles y educativos sobre salud e inmunidad, alineados con la misión de la marca Actimel."
+				}
+			}
+		},
+		"burger-king-anniversary-campaign": {
+			"title": "Burger King",
+			"subtitle": "Campaña Global por el 70° Aniversario",
+			"sections": {
+				"section-1": {
+					"title": "Desafío",
+					"content": "-"
+				},
+				"section-2": {
+					"title": "Solución",
+					"content": "Burger King cumple 70 años 🔥🔥🔥 <br></br><br></br> Pero en Burger King, nuestro fuego arde más fuerte que nunca. Y no solo en las velitas del pastel. <br></br><br></br> Para celebrar nuestro aniversario, lanzamos en Brasil una nueva campaña protagonizada por viejos amores que mantienen viva su pasión con el paso del tiempo, tan intensa como el primer día, al igual que Burger King, que cocina a la parrilla desde 1954. <br></br><br></br> La campaña se presenta con el titular: 70 años después, el fuego sigue encendido. Y cierra con el clásico eslogan de Burger King: A la parrilla desde 1954. <br></br><br></br> La campaña en Brasil (que incluye videos online, puntos de venta, vía pública y prensa) fue creada en colaboración entre Room 23 y Trans Company."
+				},
+				"section-3": {
+					"title": "Resultados",
+					"content": "Shortlist - Festival de Cannes Lions 2024 <br></br> Oro Gráfica Campaña - Premio Diente a la Creatividad Argentina 2024"
+				}
+			}
+		},
+		"evian-brand-activation": {
+			"title": "Evian",
+			"subtitle": "Una activación de marca para reforzar la importancia de la hidratación durante el entrenamiento",
+			"sections": {
+				"section-1": {
+					"title": "Desafío",
+					"content": "Diseñar una experiencia de marca con una oportunidad para fotos en el evento #GlamCamp de @glamourmexico, enfocado en fitness, bienestar y, por supuesto, hidratación."
+				},
+				"section-2": {
+					"title": "Solución",
+					"content": "Como #evianwaters fue el patrocinador oficial de hidratación del evento, creamos el #VipClub: un stand con una oportunidad de fotos de doble cara. Un lado enfatizaba la importancia de mantenerse hidratado DURANTE el entrenamiento, mientras que el otro destacaba la hidratación POST-entrenamiento. <br></br><br></br> La embajadora de marca e influencer @luisaferss 💖 nos acompañó durante todo el evento para interactuar con los asistentes y dar vida a la experiencia."
+				},
+				"section-3": {
+					"title": "Resultados",
+					"content": "El stand de fotos de doble cara fue diseñado para ofrecer una experiencia interactiva y compartible que combinara fitness, bienestar y el mensaje central de Evian sobre la hidratación. Los asistentes podían tomarse fotos, interactuar con hashtags de marca como #RefreshYourself y #VipClub, y compartir su contenido al instante en redes sociales, generando repercusión tanto en el evento como en línea."
+				}
+			}
+		}
+	},
+	"workers": {
+		"richar-dalmada": {
+			"description": "Fue el peor alumno de su clase hasta 1996, el año en que terminó la escuela. En 2000 se graduó como Director de Arte y comenzó a buscar trabajo en varias agencias. Gracias a su excompañero Gastón Potasz, tuvo la oportunidad de liderar un equipo en Visual Latina. Allí desarrolló con éxito proyectos para marcas globales como Coca-Cola, Bimbo y Danone. <br></br><br></br> En 2004 dio un gran paso en su carrera al unirse a FCB para trabajar con The Coca-Cola Company. Durante ese tiempo, Richar perfeccionó sus habilidades en diseño, animación, modelado 3D y planificación de promociones, eventos y activaciones en puntos de venta. <br></br><br></br> Todo iba bien hasta 2005, cuando se cansó de la estructura rígida de las grandes agencias. Junto a su socio Iván Novikov, decidió hacer las cosas a su manera. Así nació Room23."
+		},
+		"ivan-novikov": {
+			"description": "Un alma creativa, artista por vocación y emprendedor por naturaleza. Hoy lidera las operaciones en Argentina y América Latina, impulsando la creatividad y la innovación en cada proyecto para clientes como The Coca-Cola Company, Danone, Akapol, Kimberly-Clark, Clorox y L’Oréal. <br></br><br></br> Su camino en la publicidad comenzó hace 20 años en agencias reconocidas como Selective Bates y Visual Latina. Vancho ha logrado combinar exitosamente su visión artística con un enfoque estratégico, posicionando a Room23 como una agencia líder en la región. <br></br><br></br> Gracias a este enfoque, la agencia ha sido galardonada con múltiples premios de marketing y publicidad, incluyendo Mercurio, Smarties, Effie, Diente y AMDIA, y recientemente fue seleccionada en la Shortlist del Festival Internacional de Cannes."
+		},
+		"gustavo-mendez-antonetti": {
+			"description": "Con más de 15 años de experiencia en Planificación Estratégica y Dirección Creativa en publicidad, “Pep” ha liderado proyectos de comunicación en ATL, BTL, Digital, Packaging, Shopper Marketing y Desarrollo de Nuevos Negocios en Argentina, Venezuela, Chile, Colombia, Uruguay, México, España y otros países de Europa. <br></br><br></br> Ha trabajado con clientes reconocidos como L'Oréal, Danone, Movistar, Kimberly-Clark, Clorox, Bimbo, Mondelez y muchos más."
+		},
+		"yasmin-cao-gatti": {
+			"description": "Yasmin brings 15 years of extensive experience across both agency and client roles. <br></br><br></br> At Wunderman Buenos Aires, she led key projects for The Coca-Cola Company before transitioning directly to the brand as South Latin Digital Marketing Manager. <br></br><br></br> Her career also includes collaborations with global giants like Danone, Burger King, Kimberly Clark and L’Oréal. <br></br><br></br> Since 2023, Yasmin has been leading the expansion and growth of Room23 Agency in Europe, currently based in Barcelona."
+		},
+		"gonzalo-izzo": {
+			"description": "With over 16 years of experience in advertising and communication, Gonzalo Izzo has led integrated and omnichannel communication projects for leading consumer brands across regional and global markets. <br></br><br></br> His career as an Account Director is defined by a strategic approach and leadership that drives measurable results, managing multidisciplinary teams and complex projects. <br></br><br></br> A specialist in leading strategic projects, branding, and business development, he combines in-depth knowledge of digital communication with the ability to translate insights into relevant and effective campaigns. His focus is on maximizing brand impact across diverse audiences, delivering sustainable results."
+		},
+		"gimena-kossmann": {
+			"description": "Gimena is a strategic and creative leader with 16+ years of experience in the sports, fashion, and luxury industries. <br></br><br></br> With a background in Advertising and Visual Arts, she excels in crafting communication plans, content marketing strategies, and impactful brand experiences. <br></br><br></br> Known for leveraging creativity, storytelling, and innovation, she has worked with global and regional brands to build awareness and desirability, delivering meaningful and credible content that connects with target audiences."
+		},
+		"laura-de-barrio-merino": {
+			"description": "Laura, a Social Communication graduate, began as a culture journalist before transitioning to strategic consulting to craft impactful stories. <br></br><br></br> With nearly two decades of experience, she has led strategies for global brands like Oreo, Danone, Evian, and L’Oréal across markets such as Spain, the U.S., and Argentina. <br></br><br></br> After earning a master’s in Cultural Creation, she joined Room 23, where she founded and leads the Strategic Planning department."
+		}	
+	},
+	"models": {
+		"category": {
+			"name": {
+				"1": "Digital",
+				"2": "Campaña",
+				"3": "Packaging",
+				"4": "Experiencia"
+			},
+			"all-work": "Todo el trabajo"
+		},
+		"project": {
+			"description": {
+				"0": "Una activación de marca para reforzar la importancia de la hidratación durante el ejercicio.",
+				"1": "Campaña global de aniversario.",
+				"2": "Webapp con juegos, coleccionables y 'consejos de inmunidad para la salud'. 1.4 millones de escaneos únicos en Iberia."
+			}
+		}
+	},
+	"common": {
+		"all-rights-reserved": "Todos los derechos reservados",
+		"filters": "Filtros",
+		"send-email-to": "Escríbenos",
+		"spain": "España",
+		"social": "Redes sociales",
+		"offices": "Oficinas",
+		"previous": "Anterior",
+		"next": "Siguiente"
+	}
+}

@@ -20,9 +20,9 @@ const questrial = Questrial({
   weight: ["400"],
 });
 
-export function generateStaticParams() {
+/*export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
-}
+}*/
 
 export const metadata: Metadata = {
   title: "Room23 Agency",
@@ -36,9 +36,8 @@ export default async function RootLayout(
     params: { locale: string };
   }>
 ) {
-  const params = await props.params;
 
-  const { locale } = params;
+  const  locale  = "en";
 
   const { children } = props;
 
